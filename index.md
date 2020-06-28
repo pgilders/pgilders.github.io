@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 author: Patrick_Gildersleve
 footer_links:
   - title: Twitter
