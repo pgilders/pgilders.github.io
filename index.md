@@ -1,6 +1,9 @@
 ---
 layout: post
 author:
+  name: Patrick Gildersleve
+  picture: /images/PG.jpg
+  twitter: pgildersleve
   links:
     - title: Twitter
       url: https://twitter.com/pgildersleve
