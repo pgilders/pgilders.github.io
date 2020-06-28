@@ -11,7 +11,8 @@ author:
       icon: fab fa-twitter-square
     - title: Email
       url: mailto:patrick.gildersleve@oii.ox.ac.uk
-      icon: fab fa-envelope
+      icon: fab fa-envelope-o
+      
 title: About me
 ---
 
