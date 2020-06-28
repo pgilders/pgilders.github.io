@@ -1,6 +1,17 @@
 remote_theme: mmistakes/so-simple-theme
 title: Patrick Gildersleve
 email: patrick.gildersleve@oii.ox.ac.uk
-description: Personal website for Patrick Gildersleve, DPhil Candidate at the Oxford Internet Institute
-twitter_username: pgildersleve
+description: DPhil Candidate at the Oxford Internet Institute
+twitter:
+  username: pgildersleve
 github_username: pgilders
+
+author:
+  name: Patrick Gildersleve
+  picture: Test
+  email: patrick.gildersleve@oii.ox.ac.uk
+  twitter:pgildersleve
+  links:
+    - title: test123
+      url: bbc.com
+      icon:
