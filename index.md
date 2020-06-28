@@ -3,12 +3,13 @@ layout: post
 author:
   name: Patrick Gildersleve
   picture: /images/PG.jpg
-  twitter: pgildersleve
+  twitter: @pgildersleve
+  email: patrick.gildersleve@oii.ox.ac.uk
   links:
     - title: Twitter
       url: https://twitter.com/pgildersleve
       icon: fab fa-twitter-square
-title: 
+title: My Profile
 footer_links:
   - title: Twitter
     url: https://twitter.com/pgildersleve
