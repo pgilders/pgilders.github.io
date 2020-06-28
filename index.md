@@ -1,39 +1,30 @@
-## Welcome to GitHub Pages
+# About me
 
-Testtheme123
+I am a DPhil Candidate at the Oxford Internet Institute, where I study Computational Social Science. I'm interested in Wikipedia & other collaborative communities, the impact of news, and collective memory, typicaly using techniques from network science, time series analysis, and machine learning.
 
-You can use the [editor on GitHub](https://github.com/pgilders/pgilders.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Contact
+Email: [patrick.gildersleve@oii.ox.ac.uk](patrick.gildersleve@oii.ox.ac.uk)
+Twitter: [@pgildersleve](https://twitter.com/pgildersleve)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Output
 
-### Markdown
+### Papers
+- Gildersleve, P., & Yasseri, T. (2018, March). Inspiration, captivation, and misdirection: Emergent properties in networks of online navigation. In International Workshop on Complex Networks (pp. 271-282). Springer, Cham. [Paper](https://link.springer.com/chapter/10.1007/978-3-319-73198-8_23). [arXiv](https://arxiv.org/abs/1710.03326).
+- _Preprint_ Dinh, R., Gildersleve, P., & Yasseri, T. (2018). Computational courtship: understanding the evolution of online dating through large-scale data analysis. arXiv preprint arXiv:1809.10032. [arXiv](https://arxiv.org/abs/1809.10032).
+- More to come, awaiting review and preparing submission...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### GitHub
+- [Social Media Census](https://github.com/pgilders/Social-Media-Census)
+  - A data-scraping project for a fellow DPhil where I gathered the distribution of Facebook & Instagram users by age per country worldwide.
 
-```markdown
-Syntax highlighted code block
+### Media
+- BBC _01/10/18_: [Hot or not: Does rating yourself highly get you more dates?](https://www.bbc.com/news/av/technology-45700838/hot-or-not-does-rating-yourself-highly-get-you-more-dates)
+- Oxford Sparks Podcast _12/02/20_: [Can data find me a date?](https://www.oxfordsparks.ox.ac.uk/content/can-data-find-me-date)
 
-# Header 1
-## Header 2
-### Header 3
+## Teaching
+I have worked as a teaching assistant for OII graduate courses 'Introduction to Python', 'Intensive Python', and 'Online Social Networks'. Assignments & model answers available (may be outdated for current courses):
+- [Intensive Python](https://github.com/pgilders/OII-PySDS-ModelAnswers)
+- Others Forthcoming
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pgilders/pgilders.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## CV
+A full CV is available [here](files/CV.pdf). Please note this may not be 100% up-to-date. Please contact me if you would like a current version.
