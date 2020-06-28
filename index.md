@@ -1,6 +1,10 @@
 ---
 layout: page
 author: Patrick_Gildersleve
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/username
+    icon: fab fa-twitter-square
 ---
 
 # About me
