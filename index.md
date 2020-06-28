@@ -12,7 +12,7 @@ author:
     - title: GitHub
       url: https://github.com/pgilders
       icon: fab fa-github     
-title: About me
+title: Patrick Gildersleve
 ---
 
 
