@@ -12,7 +12,7 @@ author:
     - title: GitHub
       url: https://github.com/pgilders
       icon: fab fa-github     
-title:  
+title: \  
 ---
 ## About me
 
