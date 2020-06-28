@@ -8,7 +8,7 @@ author:
       icon: fab fa-envelope-o
     - title: Twitter
       url: https://twitter.com/pgildersleve
-      icon: fab fa-twitter-square
+      icon: fab fa-twitter
     - title: GitHub
       url: https://github.com/pgilders
       icon: fab fa-github     
