@@ -3,15 +3,15 @@ layout: post
 author:
   picture: /images/PG.jpg
   links:
+    - title: Email
+      url: mailto:patrick.gildersleve@oii.ox.ac.uk
+      icon: fab fa-envelope
     - title: Twitter
       url: https://twitter.com/pgildersleve
       icon: fab fa-twitter-square
-    - title: Email
-      url: mailto:patrick.gildersleve@oii.ox.ac.uk
-      icon: fab fa-envelope-o
     - title: GitHub
       url: https://github.com/pgilders
-      icon: fab fa-github-o      
+      icon: fab fa-github     
 title: About me
 ---
 
