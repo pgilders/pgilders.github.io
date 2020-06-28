@@ -1,8 +1,6 @@
 remote_theme: mmistakes/so-simple-theme
-title: Patrick Gildersleve
 email: patrick.gildersleve@oii.ox.ac.uk
-description: DPhil Candidate at the Oxford Internet Institute
-logo: images/PG.jpg
+#logo: images/PG.jpg
 twitter:
   username: pgildersleve
 github_username: pgilders
