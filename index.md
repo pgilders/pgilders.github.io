@@ -9,11 +9,11 @@ author:
     - title: Twitter
       url: https://twitter.com/pgildersleve
       icon: fab fa-twitter-square
+    - title: Email
+      url: patrick.gildersleve@oii.ox.ac.uk
+      icon: fab fa-email-square
 title: My Profile
-footer_links:
-  - title: Twitter
-    url: https://twitter.com/pgildersleve
-    icon: fab fa-twitter-square
+
 ---
    
 # About me
