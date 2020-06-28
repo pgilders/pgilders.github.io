@@ -10,12 +10,11 @@ author:
       url: https://twitter.com/pgildersleve
       icon: fab fa-twitter-square
     - title: Email
-      url: patrick.gildersleve@oii.ox.ac.uk
-      icon: fab fa-envelope-o
-title: My Profile
+      url: mailto:patrick.gildersleve@oii.ox.ac.uk
+      icon: fab fa-envelope-square
+title: About me
 ---
-   
-# About me
+
 
 I am a DPhil Candidate at the Oxford Internet Institute, where I study Computational Social Science. I'm interested in Wikipedia & other collaborative communities, the impact of news, and collective memory, typically using techniques from network science, time series analysis, and machine learning.
 
