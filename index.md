@@ -1,10 +1,7 @@
 ---
 layout: post
 author:
-  name: Patrick Gildersleve
   picture: /images/PG.jpg
-  twitter: pgildersleve
-  email: patrick.gildersleve@oii.ox.ac.uk
   links:
     - title: Twitter
       url: https://twitter.com/pgildersleve
