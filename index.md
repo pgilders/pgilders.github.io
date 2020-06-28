@@ -1,9 +1,10 @@
 ---
 layout: post
 author: Patrick_Gildersleve
+title: My Profile
 footer_links:
   - title: Twitter
-    url: https://twitter.com/username
+    url: https://twitter.com/pgildersleve
     icon: fab fa-twitter-square
 ---
 #    
