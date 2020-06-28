@@ -9,17 +9,14 @@ author:
     - title: Email
       url: mailto:patrick.gildersleve@oii.ox.ac.uk
       icon: fab fa-envelope-o
-      
+    - title: GitHub
+      url: https://github.com/pgilders
+      icon: fab fa-github-o      
 title: About me
 ---
 
 
 I am a DPhil Candidate at the Oxford Internet Institute, where I study Computational Social Science. I'm interested in Wikipedia & other collaborative communities, the impact of news, and collective memory, typically using techniques from network science, time series analysis, and machine learning.
-
-### Contact
-Email: [patrick.gildersleve@oii.ox.ac.uk](patrick.gildersleve@oii.ox.ac.uk)
-
-Twitter: [@pgildersleve](https://twitter.com/pgildersleve)
 
 
 
