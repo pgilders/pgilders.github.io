@@ -11,16 +11,20 @@ author:
       icon: fab fa-twitter
     - title: GitHub
       url: https://github.com/pgilders
-      icon: fab fa-github     
+      icon: fab fa-github 
+links:
+    - title: Email
+      url: mailto:patrick.gildersleve@oii.ox.ac.uk
+      icon: fa fa-envelope
 title: Patrick Gildersleve 
 ---
-## About me
+# About me
 
-I am a DPhil Candidate at the Oxford Internet Institute, where I study Computational Social Science. I'm interested in Wikipedia & other collaborative communities, the impact of news, and collective memory, typically using techniques from network science, time series analysis, and machine learning.
+I am a DPhil Candidate at the Oxford Internet Institute, where I study Computational Social Science. I'm interested in Wikipedia & other collaborative communities, the impact of news, and collective memory, typically using techniques from network science, time series analysis, and machine learning. If you are interested do get in touch through Twitter or email.
 
 
 
-## Research Output
+# Research Output
 
 ### Papers
 - Gildersleve, P., & Yasseri, T. (2018, March). Inspiration, captivation, and misdirection: Emergent properties in networks of online navigation. In International Workshop on Complex Networks (pp. 271-282). Springer, Cham. [Paper](https://link.springer.com/chapter/10.1007/978-3-319-73198-8_23). [arXiv](https://arxiv.org/abs/1710.03326).
@@ -35,12 +39,12 @@ I am a DPhil Candidate at the Oxford Internet Institute, where I study Computati
 - BBC _01/10/18_: [Hot or not: Does rating yourself highly get you more dates?](https://www.bbc.com/news/av/technology-45700838/hot-or-not-does-rating-yourself-highly-get-you-more-dates)
 - Oxford Sparks Podcast _12/02/20_: [Can data find me a date?](https://www.oxfordsparks.ox.ac.uk/content/can-data-find-me-date)
 
-## Teaching
+# Teaching
 I have worked as a teaching assistant for OII graduate courses 'Introduction to Python', 'Intensive Python', and 'Online Social Networks'. Assignments & model answers available (may be outdated for current courses):
 - [Intensive Python](https://github.com/pgilders/OII-PySDS-ModelAnswers)
 - Others Forthcoming
 
 
 
-## CV
+# CV
 A full CV is available [here](files/CV.pdf). Please note this may not be 100% up-to-date. Please contact me if you would like a current version.
