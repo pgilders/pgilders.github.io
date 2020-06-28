@@ -5,7 +5,7 @@ author:
   links:
     - title: Email
       url: mailto:patrick.gildersleve@oii.ox.ac.uk
-      icon: fa fa-envelope-o
+      icon: fab fa-envelope
     - title: Twitter
       url: https://twitter.com/pgildersleve
       icon: fab fa-twitter
