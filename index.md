@@ -17,7 +17,7 @@ title: My Profile
    
 # About me
 
-I am a DPhil Candidate at the Oxford Internet Institute, where I study Computational Social Science. I'm interested in Wikipedia & other collaborative communities, the impact of news, and collective memory, typicaly using techniques from network science, time series analysis, and machine learning.
+I am a DPhil Candidate at the Oxford Internet Institute, where I study Computational Social Science. I'm interested in Wikipedia & other collaborative communities, the impact of news, and collective memory, typically using techniques from network science, time series analysis, and machine learning.
 
 ### Contact
 Email: [patrick.gildersleve@oii.ox.ac.uk](patrick.gildersleve@oii.ox.ac.uk)
