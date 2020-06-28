@@ -1,7 +1,11 @@
 ---
 layout: post
-author: Patrick_Gildersleve
-title: My Profile
+author:
+  links:
+    - title: Twitter
+      url: https://twitter.com/pgildersleve
+      icon: fab fa-twitter-square
+title: 
 footer_links:
   - title: Twitter
     url: https://twitter.com/pgildersleve
