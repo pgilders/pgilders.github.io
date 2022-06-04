@@ -2,7 +2,7 @@
 layout: post
 permalink: /teaching/
 author:
-  picture: /images/PG.jpg
+picture: /images/PG.jpg
 links:
     - title: Email
       url: mailto:p.gildersleve@lse.ac.uk
