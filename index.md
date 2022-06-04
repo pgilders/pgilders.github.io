@@ -9,9 +9,9 @@ author:
     - title: Twitter
       url: https://twitter.com/pgildersleve
       icon: fa-brands fa-twitter
-    - title: GitHub
+<!--     - title: GitHub
       url: https://github.com/pgilders
-      icon: fab fa-github 
+      icon: fab fa-github  -->
     - title: Google Scholar
       url: https://scholar.google.co.uk/citations?user=3CTTLDgAAAAJ
       icon: fa-solid fa-graduation-cap 
