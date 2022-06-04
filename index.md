@@ -12,10 +12,6 @@ author:
     - title: GitHub
       url: https://github.com/pgilders
       icon: fab fa-github 
-links:
-    - title: Email
-      url: mailto:p.gildersleve@lse.ac.uk
-      icon: fa fa-envelope
 title: Patrick Gildersleve 
 ---
 # About me
