@@ -8,13 +8,16 @@ author:
       icon: fa fa-envelope
     - title: Twitter
       url: https://twitter.com/pgildersleve
-      icon: fab fa-twitter
+      icon: fa-brands fa-twitter
     - title: GitHub
       url: https://github.com/pgilders
       icon: fab fa-github 
     - title: Google Scholar
       url: https://scholar.google.co.uk/citations?user=3CTTLDgAAAAJ
-      icon: fab fa-graduation-cap 
+      icon: fa-solid fa-graduation-cap 
+    - title: University Webpage
+      url: https://www.lse.ac.uk/Methodology/People/Academic-Staff/Patrick-Gildersleve/Patrick-Gildersleve
+      icon: fa-solid fa-globe
 title: Patrick Gildersleve 
 ---
 # About me
