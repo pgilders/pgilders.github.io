@@ -1,6 +1,7 @@
 ---
 layout: post
 author:
+permalinnk: /research/
   picture: /images/PG.jpg
   links:
     - title: Email
