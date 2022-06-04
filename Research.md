@@ -20,7 +20,7 @@ title: Research
 ---
 
 
-# Research Output
+# Research
 
 ### Papers
 - Gildersleve, P., & Yasseri, T. (2018, March). Inspiration, captivation, and misdirection: Emergent properties in networks of online navigation. In International Workshop on Complex Networks (pp. 271-282). Springer, Cham. [Paper](https://link.springer.com/chapter/10.1007/978-3-319-73198-8_23). [arXiv](https://arxiv.org/abs/1710.03326).
