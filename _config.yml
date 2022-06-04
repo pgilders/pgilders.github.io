@@ -1,5 +1,5 @@
 remote_theme: mmistakes/so-simple-theme
-email: patrick.gildersleve@lse.ac.uk
+email: p.gildersleve@lse.ac.uk
 title: ""
 description: ""
 #logo: images/PG.jpg
@@ -11,7 +11,7 @@ Patrick_Gildersleve:
   name: Patrick Gildersleve
   picture: images/PG.jpg
   avatar: images/PG.jpg
-  email: patrick.gildersleve@oii.ox.ac.uk
+  email: p.gildersleve@lse.ac.uk
   twitter: pgildersleve
   links:
 author: Patrick_Gildersleve
