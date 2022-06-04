@@ -12,16 +12,16 @@ author:
     - title: GitHub
       url: https://github.com/pgilders
       icon: fab fa-github 
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/gildersleve/
-      icon: fab fa-linkedin
     - title: Google Scholar
       url: https://scholar.google.co.uk/citations?user=3CTTLDgAAAAJ
       icon: fas fa-graduation-cap 
     - title: University Webpage
       url: https://www.lse.ac.uk/Methodology/People/Academic-Staff/Patrick-Gildersleve/Patrick-Gildersleve
-      icon: fa-solid fa-globe
-
+      icon: fas fa-globe
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/gildersleve/
+      icon: fab fa-linkedin
+      
 title: Patrick Gildersleve 
 ---
 # About me
