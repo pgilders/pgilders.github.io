@@ -3,7 +3,7 @@ layout: post
 permalink: /teaching/
 author:
   picture: /images/PG.jpg
-  links:
+links:
     - title: Email
       url: mailto:p.gildersleve@lse.ac.uk
       icon: fa fa-envelope
@@ -13,11 +13,7 @@ author:
     - title: GitHub
       url: https://github.com/pgilders
       icon: fab fa-github 
-links:
-    - title: Email
-      url: mailto:p.gildersleve@lse.ac.uk
-      icon: fa fa-envelope
-title: Patrick Gildersleve 
+title: Patrick Gildersleve - Teaching
 ---
 
 # Teaching
