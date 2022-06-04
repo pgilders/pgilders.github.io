@@ -18,6 +18,9 @@ author:
     - title: University Webpage
       url: https://www.lse.ac.uk/Methodology/People/Academic-Staff/Patrick-Gildersleve/Patrick-Gildersleve
       icon: fa-solid fa-globe
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/gildersleve/
+      icon: fa-brands fa-linkedin
 title: Patrick Gildersleve 
 ---
 # About me
