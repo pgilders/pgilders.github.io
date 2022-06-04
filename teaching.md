@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /teaching/
 author:
   picture: /images/PG.jpg
   links:
