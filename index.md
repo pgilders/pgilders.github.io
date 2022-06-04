@@ -4,7 +4,7 @@ author:
   picture: /images/PG.jpg
   links:
     - title: Email
-      url: mailto:patrick.gildersleve@oii.ox.ac.uk
+      url: mailto:p.gildersleve@lse.ac.uk
       icon: fa fa-envelope
     - title: Twitter
       url: https://twitter.com/pgildersleve
@@ -14,13 +14,13 @@ author:
       icon: fab fa-github 
 links:
     - title: Email
-      url: mailto:patrick.gildersleve@oii.ox.ac.uk
+      url: mailto:p.gildersleve@lse.ac.uk
       icon: fa fa-envelope
 title: Patrick Gildersleve 
 ---
 # About me
 
-I am a DPhil Candidate at the Oxford Internet Institute, where I study Computational Social Science. I'm interested in Wikipedia & other collaborative communities, the impact of news, and collective memory, typically using techniques from network science, time series analysis, and machine learning. If you are interested do get in touch through Twitter or email.
+I am a Fellow in Computational Social Science at the Department of Methodology, London School of Economics and Political Science. I recently obtained a PhD in Information, Communication, and the Social Sciences from the Oxford Internet institute, University of Oxford. I'm interested in Wikipedia & other collaborative communities, the impact of news, and collective memory, typically using techniques from network science, time series analysis, and machine learning. If you are interested in me and my work do get in touch through Twitter or email.
 
 
 
@@ -40,6 +40,8 @@ I am a DPhil Candidate at the Oxford Internet Institute, where I study Computati
 - Oxford Sparks Podcast _12/02/20_: [Can data find me a date?](https://www.oxfordsparks.ox.ac.uk/content/can-data-find-me-date)
 
 # Teaching
+I am a class teacher across four Masters and PhD level courses at LSE: 'MY470 - Computer Programming', 'MY472 - Data for Data Scientists', 'MY461 - Social Network Analysis', and 'MY452 - Applied Regression Analysis'.
+
 I have worked as a teaching assistant for OII graduate courses 'Introduction to Python', 'Intensive Python', and 'Online Social Networks'. Assignments & model answers available (may be outdated for current courses):
 - [Intensive Python](https://github.com/pgilders/OII-PySDS-ModelAnswers)
 - Others Forthcoming
