@@ -1,9 +1,9 @@
 ---
 layout: post
-author:
 permalink: /research/
-picture: /images/PG.jpg
-links:
+author:
+  picture: /images/PG.jpg
+  links:
     - title: Email
       url: mailto:p.gildersleve@lse.ac.uk
       icon: fa fa-envelope
@@ -13,7 +13,7 @@ links:
     - title: GitHub
       url: https://github.com/pgilders
       icon: fab fa-github 
-title: Patrick Gildersleve - Research
+title: Research
 ---
 
 
