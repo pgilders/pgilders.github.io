@@ -12,6 +12,9 @@ author:
     - title: GitHub
       url: https://github.com/pgilders
       icon: fab fa-github 
+    - title: Google Scholar
+      url: https://scholar.google.co.uk/citations?user=3CTTLDgAAAAJ
+      icon: fab fa-graduation-cap 
 title: Patrick Gildersleve 
 ---
 # About me
