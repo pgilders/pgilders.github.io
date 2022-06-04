@@ -15,7 +15,13 @@ author:
       icon: fab fa-github 
     - title: Google Scholar
       url: https://scholar.google.co.uk/citations?user=3CTTLDgAAAAJ
-      icon: fab fa-graduation-cap 
+      icon: fas fa-graduation-cap 
+    - title: University Webpage
+      url: https://www.lse.ac.uk/Methodology/People/Academic-Staff/Patrick-Gildersleve/Patrick-Gildersleve
+      icon: fas fa-globe
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/gildersleve/
+      icon: fab fa-linkedin
 title: Patrick Gildersleve
 ---
 
