@@ -29,9 +29,10 @@ title: Patrick Gildersleve
 # Research
 
 ### Papers
+- Kobayashi, R., Gildersleve, P., Uno, T., & Lambiotte, R. (2021). Modeling Collective Anticipation and Response on Wikipedia. Proceedings of the International AAAI Conference on Web and Social Media, 15(1), 315-326. [Open access paper](https://ojs.aaai.org/index.php/ICWSM/article/view/18063).
+- Dinh, R., Gildersleve, P., Blex, C., & Yasseri, T. (2021). Computational courtship understanding the evolution of online dating through large-scale data analysis. Journal of Computational Social Science, 1-26. [Open access paper](https://link.springer.com/article/10.1007/s42001-021-00132-w).
 - Gildersleve, P., & Yasseri, T. (2018, March). Inspiration, captivation, and misdirection: Emergent properties in networks of online navigation. In International Workshop on Complex Networks (pp. 271-282). Springer, Cham. [Paper](https://link.springer.com/chapter/10.1007/978-3-319-73198-8_23). [arXiv](https://arxiv.org/abs/1710.03326).
-- _Preprint_ Dinh, R., Gildersleve, P., & Yasseri, T. (2018). Computational courtship: understanding the evolution of online dating through large-scale data analysis. arXiv preprint arXiv:1809.10032. [arXiv](https://arxiv.org/abs/1809.10032).
-- More to come, awaiting review and preparing submission...
+- More to come, including three PhD papers, awaiting review and preparing submission...
 
 ### PhD Thesis
 - The Wikipedia News Network: Understanding Collective Response to Current Events Through the Internet’s Encyclopaedia (2022). [Thesis](https://ora.ox.ac.uk/objects/uuid:3f3a8f39-a84c-4a15-abd2-b757ab2256d0).
