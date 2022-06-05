@@ -26,7 +26,12 @@ title: Patrick Gildersleve
 ---
 
 # Teaching
-I am a class teacher across four Masters and PhD level courses at LSE: 'MY470 - Computer Programming', 'MY472 - Data for Data Scientists', 'MY461 - Social Network Analysis', and 'MY452 - Applied Regression Analysis'.
+I am a class teacher across four Masters and PhD level courses at LSE:
+- MY452 [Applied Regression Analysis](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/MY/2020_MY452.htm)
+- MY461 [Social Network Analysis](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/MY/2020_MY461.htm)
+- MY470 [Computer Programming](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/MY/2020_MY470.htm) ([GitHub](https://github.com/lse-my470))
+- MY472 [Data for Data Scientists](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/MY/2020_MY472.htm) ([GitHub](https://github.com/lse-my472/))
+
 
 I have worked as a teaching assistant for OII graduate courses 'Introduction to Python', 'Intensive Python', and 'Online Social Networks'. Assignments & model answers available (may be outdated for current courses):
 - [Intensive Python](https://github.com/pgilders/OII-PySDS-ModelAnswers)
