@@ -26,8 +26,10 @@ title: Patrick Gildersleve
 ---
 # About me
 
-I am a Fellow in Computational Social Science at the Department of Methodology, London School of Economics and Political Science. I recently obtained a PhD in Information, Communication, and the Social Sciences from the Oxford Internet institute, University of Oxford. I'm interested in Wikipedia & other collaborative communities, the impact of news, and collective memory, typically using techniques from network science, time series analysis, and machine learning. If you are interested in me and my work do get in touch through Twitter or email.
+I am a Fellow in Computational Social Science at the Department of Methodology, London School of Economics and Political Science. I recently obtained a PhD in Information, Communication, and the Social Sciences from the Oxford Internet institute, University of Oxford.
+
+I'm interested in Wikipedia & other collaborative communities, the impact of news, and collective memory, typically using techniques from network science, time series analysis, and machine learning. If you are interested in me and my work do get in touch through Twitter or email.
 
 
 # CV
-A full CV is available [here](files/CV.pdf). Please note this may not be 100% up-to-date. Please contact me if you would like a current version.
+A full CV is available [here](files/CV.pdf). Please note this may not be fully up-to-date. Please contact me if you would like a current version.
