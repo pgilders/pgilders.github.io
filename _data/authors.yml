@@ -1,16 +1,31 @@
-# Sample Authors
-# Remove file or replace with your own
-
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Patrick Gildersleve:
+  name             : 
+  avatar           : 
+  bio              : " "
+  location         : 
+  email            : 
   links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+    - label: "p.gildersleve@lse.ac.uk"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:p.gildersleve@lse.ac.uk"
+    - label: "University Webpage"
+      icon: "fas fa-fw fa-globe"
+      url: "https://www.lse.ac.uk/Methodology/People/Academic-Staff/Patrick-Gildersleve/Patrick-Gildersleve"
+    - label: Google Scholar
+      url: https://scholar.google.co.uk/citations?user=3CTTLDgAAAAJ
+      icon: fas fa-fw fa-graduation-cap     
+    - label: "@pgildersleve"
+      icon: fab fa-fw fa-twitter
+      url: "https://twitter.com/pgildersleve"
+    - label: "gildersleve@mastodon.social"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@gildersleve"
+    - label: "gildersleve.bsky.social"
+      icon: "fas fa-fw fa-cloud-sun"
+      url: "https://bsky.app/profile/gildersleve.bsky.social"
+    - label: "@pgilders"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pgilders"
+    - label: LinkedIn
+      url: https://www.linkedin.com/in/gildersleve/
+      icon: fab fa-fw fa-linkedin
