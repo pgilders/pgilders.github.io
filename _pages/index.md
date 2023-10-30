@@ -16,7 +16,5 @@ I'm interested in Wikipedia & other collaborative communities, the impact of new
 I'm currently looking for lecturer / assistant professor level positions broadly related to computational social/communications science. Please get in touch if you think I might be a good fit for your department or have an opportunity to share.
 
 ## CV
-A full CV is available on request.
-
-<!-- [here](assets/files/CV.pdf). Please note this may not be fully up-to-date. Please contact me if you would like a current version. -->
+A full CV is available [here](assets/files/CV_Patrick_Gildersleve.pdf). Please note this may not be fully up-to-date. Please contact me if you would like a current version.
 
