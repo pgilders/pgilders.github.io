@@ -121,7 +121,7 @@ author:
       url: https://scholar.google.co.uk/citations?user=3CTTLDgAAAAJ
       icon: fas fa-fw fa-graduation-cap     
     - label: "@pgildersleve"
-      icon: fab fa-fw fa-twitter
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/pgildersleve"
     - label: "gildersleve@mastodon.social"
       icon: "fab fa-fw fa-mastodon"

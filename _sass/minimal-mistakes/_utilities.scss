@@ -260,7 +260,6 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
   }
 
   .fa-gitlab {
@@ -282,12 +281,10 @@ body:hover .visually-hidden button {
 
   .fa-linkedin,
   .fa-linkedin-in {
-    color: $linkedin-color;
   }
 
   .fa-mastodon,
   .fa-mastodon-square {
-    color: $mastodon-color;
   }
 
   .fa-pinterest,
@@ -321,9 +318,13 @@ body:hover .visually-hidden button {
 
   .fa-twitter,
   .fa-twitter-square {
-    color: $twitter-color;
   }
 
+  .fa-x-twitter,
+  .fa-x-twitter-square {
+  }
+
+  
   .fa-vimeo,
   .fa-vimeo-square,
   .fa-vimeo-v {
@@ -340,7 +341,6 @@ body:hover .visually-hidden button {
 
   .fa-xing,
   .fa-xing-square {
-    color: $xing-color;
   }
 }
 
