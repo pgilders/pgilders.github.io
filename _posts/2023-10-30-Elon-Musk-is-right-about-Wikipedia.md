@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title:  "Elon Musk is right about Wikipedia"
-date:   2023-10-29 14:31:39 +0000
+date:   2023-10-30 14:00:00 +0000
 tags: blog Wikipedia
 author_profile: true
 
