@@ -42,6 +42,8 @@ gallery4:
 
 ---
 
+_TL;DR: No._ 
+
 ## The case against Wikipedia
 
 Last week Elon Musk posted a number of tweets denouncing Wikipedia, the free online encyclopaedia that has been a mainstay of the 21st century Internet. 
