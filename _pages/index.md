@@ -18,3 +18,10 @@ I'm currently looking for lecturer / assistant professor level positions broadly
 ## CV
 A full CV is available [here](assets/files/CV_Patrick_Gildersleve.pdf). Please note this may not be fully up-to-date. Please contact me if you would like a current version.
 
+## Recent posts
+
+<div class="grid__wrapper">
+  {% for post in site.posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
