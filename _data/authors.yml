@@ -1,4 +1,4 @@
-Patrick Gildersleve:
+Patrick Gildersleve: # update this in config yml too!
   name             : 
   avatar           : 
   bio              : " "
@@ -15,13 +15,13 @@ Patrick Gildersleve:
       url: https://scholar.google.co.uk/citations?user=3CTTLDgAAAAJ
       icon: fas fa-fw fa-graduation-cap     
     - label: "@pgildersleve"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/pgildersleve"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/pgildersleve"
     - label: "gildersleve@mastodon.social"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@gildersleve"
     - label: "@gildersleve.uk"
-      icon: "fas fa-fw fa-cloud-sun"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/gildersleve.uk"
     - label: "@pgilders"
       icon: "fab fa-fw fa-github"
