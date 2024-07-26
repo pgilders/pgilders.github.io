@@ -13,6 +13,9 @@ I'm interested in Wikipedia, collaborative communities, and news across online p
 
 If you are interested in me and my work do get in touch through email or social media.
 
+## Supervision
+I am accepting applications for primary supervision and co-supervision of PhD students. If you are interested in working with me, as a first step please consult the information [here](https://www.exeter.ac.uk/study/pg-research/apply/), and email me an abstract describing your research interests and proposed work.
+
 ## CV
 A full CV is available [here](assets/files/CV_Patrick_Gildersleve.pdf). Please note this may not be fully up-to-date. Please contact me if you would like a current version.
 
