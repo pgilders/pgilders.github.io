@@ -46,8 +46,8 @@ gallery4:
 📰The News Comment Gap and Algorithmic Agenda Setting in Online Forums w/ Flora Böwing
 
 We study:
-1) The differences in comment preferences between journalists and readers
-2) How comment ranking algorithms prioritise different kinds of comments to display to users
+1. The differences in comment preferences between journalists and readers
+2. How comment ranking algorithms prioritise different kinds of comments to display to users
 
 {% include gallery id="gallery1" layout="third" caption="" %}
 
