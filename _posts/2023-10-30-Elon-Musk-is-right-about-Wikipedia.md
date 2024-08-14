@@ -16,8 +16,8 @@ header:
 gallery1:
   - url: /assets/images/2023-10-30-Elon-Musk-is-right-about-Wikipedia/wokipedia.png
     image_path: /assets/images/2023-10-30-Elon-Musk-is-right-about-Wikipedia/wokipedia.png
-    alt: "Screenshotr of a Twitter thread started by Jimmy Wales, first tweet reading: 'Fast moving claims and counter claims, and @elonmusk
- has removed all the core features that made it even remotely possible to tell real journalists from fakes.'. A response from Elon Mush reads 'Please fix wokipedia'."
+    alt: "Screenshot of a Twitter thread started by Jimmy Wales, first tweet reading: 'Fast moving claims and counter claims, and @elonmusk
+    has removed all the core features that made it even remotely possible to tell real journalists from fakes.'. A response from Elon Mush reads 'Please fix wokipedia'."
 
 gallery2:
   - url: assets/images/2023-10-30-Elon-Musk-is-right-about-Wikipedia/donations.png
