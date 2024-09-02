@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 ## About me
-I am currently a Fellow in Computational Social Science at the Department of Methodology, London School of Economics and Political Science. I obtained my PhD in Information, Communication, and the Social Sciences from the Oxford Internet Institute, University of Oxford. I will soon join the University of Exeter as Lecturer in Communications and Artificial Intelligence (≈ tenure-track assistant professor).
+I am a Lecturer (≈ tenure-track assistant professor) in Communications and Artificial Intelligence at the University of Exeter. I obtained my PhD in Information, Communication, and the Social Sciences from the Oxford Internet Institute, University of Oxford and have also worked as a postdoctoral LSE Fellow in Computational Social Science at the Department of Methodology, London School of Economics and Political Science. 
 
 I'm interested in Wikipedia, collaborative communities, and news across online platforms. I look to understand the social, editorial, and algorithmic processes that shape collective attention and drive interest towards news and current events. In my research I employ and develop techniques from network science, text analysis, time series analysis, and machine learning.
 

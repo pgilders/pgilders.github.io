@@ -5,12 +5,12 @@ Patrick Gildersleve: # update this in config yml too!
   location         : 
   email            : 
   links:
-    - label: "p.gildersleve@lse.ac.uk"
+    - label: "p.gildersleve@exeter.ac.uk"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:p.gildersleve@lse.ac.uk"
-    - label: "University Webpage"
-      icon: "fas fa-fw fa-globe"
-      url: "https://www.lse.ac.uk/Methodology/People/Academic-Staff/Patrick-Gildersleve/Patrick-Gildersleve"
+      url: "mailto:p.gildersleve@exeter.ac.uk"
+    # - label: "University Webpage"
+    #   icon: "fas fa-fw fa-globe"
+    #   url: "https://www.lse.ac.uk/Methodology/People/Academic-Staff/Patrick-Gildersleve/Patrick-Gildersleve"
     - label: Google Scholar
       url: https://scholar.google.co.uk/citations?user=3CTTLDgAAAAJ
       icon: fas fa-fw fa-graduation-cap     

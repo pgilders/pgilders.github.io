@@ -7,6 +7,8 @@ title: Research
 ---
 
 ## Articles
+
+- Böwing, F., & Gildersleve, P. (2024). The News Comment Gap and Algorithmic Agenda Setting in Online Forums. [arXiv preprint](https://arxiv.org/pdf/2408.07052)
 - Gildersleve, P., Lambiotte, R., & Yasseri, T. (2023). Between news and history: identifying networked topics of collective attention on Wikipedia. Journal of Computational Social Science, 1-31. [Open access paper](https://link.springer.com/article/10.1007/s42001-023-00215-w)
 - Yasseri, T., Gildersleve, P., & David, L. (2022). Chapter 9 - Collective memory in the digital age. In S. M. O’Mara (Ed.), Progress in brain research (Vol. 274, p. 203-226). Elsevier. [Paper](https://www.sciencedirect.com/science/article/pii/S0079612322001571) [arXiv](https://arxiv.org/abs/2207.01042)
 - Kobayashi, R., Gildersleve, P., Uno, T., & Lambiotte, R. (2021). Modeling Collective Anticipation and Response on Wikipedia. Proceedings of the International AAAI Conference on Web and Social Media, 15(1), 315-326. [Open access paper](https://ojs.aaai.org/index.php/ICWSM/article/view/18063).
