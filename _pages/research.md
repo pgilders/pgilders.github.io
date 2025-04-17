@@ -8,6 +8,7 @@ title: Research
 
 ## Articles
 
+- Gildersleve, P., Beers, A., Ito, V., Orozco, A., & Tripodi, F. (2025). WikiReddit: Tracing Information and Attention Flows Between Online Platforms. [arXiv preprint](https://arxiv.org/abs/2502.04942). [Zenodo Dataset](https://zenodo.org/records/14653265). Accepted at ICWSM 2025.
 - Böwing, F., & Gildersleve, P. (2024). The News Comment Gap and Algorithmic Agenda Setting in Online Forums. [arXiv preprint](https://arxiv.org/pdf/2408.07052)
 - Gildersleve, P., Lambiotte, R., & Yasseri, T. (2023). Between news and history: identifying networked topics of collective attention on Wikipedia. Journal of Computational Social Science, 1-31. [Open access paper](https://link.springer.com/article/10.1007/s42001-023-00215-w)
 - Yasseri, T., Gildersleve, P., & David, L. (2022). Chapter 9 - Collective memory in the digital age. In S. M. O’Mara (Ed.), Progress in brain research (Vol. 274, p. 203-226). Elsevier. [Paper](https://www.sciencedirect.com/science/article/pii/S0079612322001571) [arXiv](https://arxiv.org/abs/2207.01042)
