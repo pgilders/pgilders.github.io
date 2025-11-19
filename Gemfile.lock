@@ -280,6 +280,7 @@ DEPENDENCIES
   faraday-retry (~> 2.2)
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
+  jekyll (~> 3.9)
   jekyll-feed (~> 0.12)
   minimal-mistakes-jekyll
   tzinfo (>= 1, < 3)

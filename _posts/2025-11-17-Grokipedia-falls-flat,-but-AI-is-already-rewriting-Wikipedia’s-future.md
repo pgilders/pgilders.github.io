@@ -1,0 +1,59 @@
+---
+layout: single
+classes: wide
+title:  "Grokipedia falls flat, but AI is already rewriting Wikipedia’s future"
+date:   2025-11-17 09:00:00 +0000
+tags: blog
+author_profile: true
+
+excerpt: "I enjoyed writing this piece for the LSE Impact Blog on Musk's latest swing at Wikipedia, and its future in a hostile AI-skewed political landscape"
+header:
+  teaser: assets/images/2025-11-17-Grokipedia-falls-flat,-but-AI-is-already-rewriting-Wikipedia’s-future/grokipedia.png
+  overlay_image: assets/images/2025-11-17-Grokipedia-falls-flat,-but-AI-is-already-rewriting-Wikipedia’s-future/grokipedia.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+
+---
+
+*Originally published on the [LSE Impact Blog](https://blogs.lse.ac.uk/impactofsocialsciences/2025/11/17/grokipedia-falls-flat-but-ai-is-already-rewriting-wikipedias-future/)*
+
+Elon Musk’s xAI recently launched Grokipedia – an AI-powered digital encyclopaedia designed to take on Wikipedia. The platform apparently uses the Grok chatbot to generate and fact-check articles at scale, promising a “massive improvement” over the encyclopaedia anyone can edit.
+
+How, really though, has Grokipedia attempted to enhance the digital encyclopaedia experience? Mostly by [copying Wikipedia’s content](https://www.politifact.com/article/2025/nov/12/Grokipedia-Wikipedia-AI-citations/), repackaging carefully cultivated bias as [“neutrality”](https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/), adding a [sprinkle of disinformation](https://meduza.io/en/feature/2025/10/30/grokipedia-vs-ruwiki), and removing many of the features that made Wikipedia such a successful successor to traditional encyclopaedias in the first place.
+
+# New knowledge production models
+
+Grokipedia is not the first challenger to Wikipedia. Estranged co-founder Larry Sanger’s Citizendium, Microsoft’s Encarta, Google’s Knol, the blockchain powered Everipedia, or spinoffs such as Conservapedia, Russia’s Ruwiki, China’s Baidu Baike have all attempted to offer alternatives, with different models for editorial control and varying degrees of (usually limited or localised) success.
+
+Wikipedia’s own model, radically open and volunteer-governed, was a shock to traditional encyclopaedia production in the early 2000s. Whilst not without its own issues of [systemic biases, uneven global representation, contested histories](https://blogs.lse.ac.uk/impactofsocialsciences/2021/11/18/seeing-the-world-like-wikipedia-what-you-should-know-about-how-the-worlds-largest-encyclopedia-works/), it has grown into a remarkably reliable piece of knowledge infrastructure, when regarded with a healthy critical eye. New AI-driven models pose a different kind of challenge. Wikipedia is a flagship of the open Web, the hyperlink paradigm making referencing sources the default mode of knowledge production and information search.
+
+The advent of LLMs marks a shift towards personalised summaries divorced or obfuscated from their provenance. Increasing centralisation of tech power places the architecture of information access further within a narrow set of corporate actors, with little transparency or accountability. This is a [top-down assertion of epistemic authority](https://www.techpolicy.press/with-grokipedia-topdown-control-of-knowledge-is-new-again/) being awarded to the highest bidder; usually Musk himself, or those who [subscribe to his ideals](https://blogs.lse.ac.uk/impactofsocialsciences/2023/04/14/social-media-has-changed-will-academics-catch-up/) (very directly £8 per month for a blue check on X), whom Grokipedia prioritises as a source.
+
+Wikipedia editors themselves remain [broadly resistant to generative AI in the editing process](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup), having previously embraced [carefully controlled editing by simple bots](https://stuartgeiger.com/bots-cyborgs-halfaker.pdf), with the [Wikimedia Foundation also remaining cautious](https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/). Where general Web users have adopted LLMs for many tasks, Wikipedia editors deeply involved in the direct labour and governance of knowledge production on the Internet see LLMs as both philosophically and practically antithetical to their craft. Some users have and will continue to edit Wikipedia with generative AI tools, both in good and bad faith, but Grokipedia represents an outsourcing of knowledge work to the AI model itself (with the rather huge caveat that much of Grokipedia’s content is simply [lifted directly from Wikipedia](https://www.arxiv.org/pdf/2510.26899), with the underlying Grok LLM [likely also being trained on Wikipedia](https://aclanthology.org/2024.wikinlp-1.14/) and other open resources).
+
+# The Grokipedia experience
+
+It is rather striking how bare-bones the Grokipedia site is. A simple search bar takes the user to an article of choice (885K compared to English Wikipedia’s 7.1m), where they are met by a block of encyclopaedic text. One is able to highlight sections to “Ask Grok”, which takes the text, divorced from any other context or link to Grokipedia, into a session with the chatbot, or to “suggest an edit”, inviting the user to submit improvements. It is unclear, however, how this feature really works, with suggestions seemingly reviewed by the Grok chatbot and integrated or rejected according to criteria and processes kept opaque to users.
+
+Contrast this with Wikipedia’s system. A simple site to be sure, fundamentally not that different from its 2001 origins, but one that offers users numerous ways to transparently and directly engage: full edit histories of every article, discussion pages where contributors debate content, clear rules on verifiability and neutrality, plus of course, the ability for anyone to edit directly.
+
+# Networked authority in the encyclopaedia with breaking news
+
+One of Wikipedia’s many powers is its deep integration with the World Wide Web. Internal hyperlinks allow you to browse related articles and wander down rabbit-holes. References on Wikipedia link to external sites where possible. Beyond its immediate utility, this embrace of Web technologies is what led to it being ranked highly in the early days of Google results, and its subsequent continued success in it being heavily linked to from elsewhere today.
+
+On these points, Grok does not feature internal hyperlinks to support browsing beyond the immediate article. It exclusively references web-based content, not offline resources such as physical books and historical texts. And, across many attempted searches (“Elon Musk”, “Tesla Grokipedia”, “BBC Grokipedia article”, …), its articles barely appear in the front page of rankings of the great gatekeeper, Google. One notable exception; searching for “Elon Musk Grokipedia page” does yield the desired article second in the rankings (below Musk’s Wikipedia page). Since a peak in Google queries on its launch, [direct search traffic to Grokipedia has dwindled](https://trends.google.com/trends/explore?date=2025-10-17%202025-11-17&q=grokipedia,wikipedia&hl=en-GB), to say nothing of the likely even smaller share of referrals directly to Grokipedia articles.
+
+Unless a user deliberately navigates to grokipedia.com then searches for a specific article, they are unlikely to encounter its content. They are also unlikely to be sent there from elsewhere, even X or Grok itself. It does not have the credibility among general users, and competitor tech platforms have little incentive to boost a rival, when reliable Wikipedia exists or they have their own chatbots to lock users into. Grokipedia’s static, isolated articles also mean that even once on the platform, any form of curiosity or serendipitous discovery is unlikely.
+
+At the time of writing, Grok articles display a badge marking “fact checked by Grok three weeks ago”, an eternity in the Internet age. One of Wikipedia’s key draws is that its volunteer editors [keep it up to date with current events](https://wikipedia20.mitpress.mit.edu/pub/vcka4poc/release/5). Since Grokipedia’s launch, Donald Trump’s Wikipedia article (only editable by the most experienced editors due to vandalism issues) has been [updated 185 times](https://en.wikipedia.org/w/index.php?title=Donald_Trump&action=history). In the same period, just one change has been approved on his [Grokipedia article](https://grokipedia.com/page/Trump), with six further rejected or still under review. As such, Grokipedia is more of a stale automated remix of a living commons than a truly AI-enhanced upgrade (if such a thing could ever exist).
+
+# What really is Grokipedia?
+
+Ultimately, Grokipedia as a product is a low-effort proof-of-concept, in its current form not a true challenger to Wikipedia. It offers none of the adaptable, conversational affordances that draw users to AI chatbots, to say nothing of its content errors, biases, and weak claims to authority. It also offers a frankly bad digital encyclopaedia experience – an out of date, barely functional piece of hypertext. Features may improve, presumably with deeper integration with Grok and X, but it is hard to see how anyone not deeply ingrained in Musk’s tech ecosystem will ever come to rely on or encounter it.
+
+Grokipedia is, however, two things:
+
+Firstly, it is a position piece – another part of Musk’s [continued](https://gildersleve.uk/Elon-Musk-is-right-about-Wikipedia/) [attacks](https://www.snopes.com/fact-check/elon-musk-stop-donating-wikipedia/) [on](https://www.theatlantic.com/technology/archive/2025/02/elon-musk-wikipedia/681577/) [Wikipedia](https://www.theatlantic.com/ideas/2025/11/right-wing-attack-wikipedia-bias-musk-cruz/684886/). It matters less that Grokipedia succeeds than whether it helps to delegitimise Wikipedia. Despite (or because of) everything Wikipedia has done for open knowledge, it operates in an ever more hostile environment. Beyond Musk’s attacks from his X account, the US government has recently pursued a conspicuously [bad-faith investigation into alleged bias on the platform](https://eu.usatoday.com/story/news/politics/2025/08/27/wikipedia-under-investigation-by-republicans/85855314007/). The Wikimedia Foundation also continues to weather further challenges from [international media companies and courts attempting to censor its content](https://www.thehindu.com/news/national/wikipedia-suspends-access-to-ani-defamation-case-page-following-delhi-hc-order/article68778075.ece), or heavy-handed regulation as with the [UK’s Online Safety Act](https://medium.com/wikimedia-policy/wikipedias-nonprofit-host-brings-legal-challenge-to-new-online-safety-act-osa-regulations-0f9153102f29).
+
+Secondly, it is a warning shot for AI’s real impact on Wikipedia and open knowledge. The Wikimedia foundation recently issued warnings on a [decline in human visits](https://diff.wikimedia.org/2025/10/17/new-user-trends-on-wikipedia/) as a result of the use of AI tools like Google’s AI search summaries and ChatGPT. Wikipedia’s page views, and thus its donations and editing contributions are highly dependent on referrals from other platforms, most notably Google. At the same time, the large language models themselves are highly dependent on the wealth of reliable open information offered by Wikipedia and other commons. The same open infrastructure supporting AI is now being undermined by derivative products through both extraction and poisoned contributions.
+
+AI is a threat to Wikipedia, but Grokipedia itself is little more than a politically charged sideshow to the deeper battles underway in the digital knowledge ecosystem.
