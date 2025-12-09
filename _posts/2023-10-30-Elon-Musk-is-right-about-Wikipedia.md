@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title:  "Elon Musk is right about Wikipedia"
 date:   2023-10-30 14:00:00 +0000
-tags: blog Wikipedia
+tags: blog
 author_profile: true
 
 excerpt: "Elon has taken to Twitter to criticise the last best place on the Internet. Does the man destroying his own social network have a point?"

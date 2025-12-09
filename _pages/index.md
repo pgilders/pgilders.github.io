@@ -19,7 +19,7 @@ If you are interested in me and my work please do get in touch through email or 
 I am accepting applications for primary supervision and co-supervision of PhD students. If you are interested in working with me, as a first step please consult the information [here](https://www.exeter.ac.uk/study/pg-research/apply/), and email me an abstract describing your research interests and proposed work.
 
 ## CV
-A full CV is available [here](assets/files/CV_Patrick_Gildersleve_17_04_25.pdf). Please note this may not be fully up-to-date. Please contact me if you would like a current version.
+A full CV is available [here](assets/files/CV_Patrick_Gildersleve_01_12_25.pdf). Please note this may not be fully up-to-date. Please contact me if you would like a current version.
 
 ## Recent posts
 
